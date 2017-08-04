@@ -1,6 +1,6 @@
 ## About Me
 
-I am MOHAMMED FAWAZ studying engineering in APPLIED ELECTRONICS AND INSTRUMENTATION.
+I am MOHAMMED FAWAZ doing btech in Applied electronics and instrumentation.
 
 ### MARKDOWN
 
