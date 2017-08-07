@@ -4,12 +4,11 @@ I am MOHAMMED FAWAZ doing btech in Applied electronics and instrumentation.
 
 # FABLAB TRAINING 
  A fab lab (fabrication laboratory) is a small-scale workshop offering (personal) digital fabrication.fab lab is typically equipped with an array of flexible computer-controlled tools that cover several different length scales and various materials, with the aim to make "almost anything".
-  Our collage 
+ 
+  Our collage is conducting a two week training program about fab lab leaded by  Mr. Muhammed Jaseel.
 
 
-
-# Header 1
-## Header 2
+## FABLAB PROGRESS
 ### Header 3
 
 - Bulleted
