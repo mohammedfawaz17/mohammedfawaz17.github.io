@@ -31,7 +31,7 @@ Our instuctor gave an introduction about fab lab.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://user-images.githubusercontent.com/30692745/29034385-c1c58e84-7bb5-11e7-97ad-396550382799.jpg](src)
+[Link](url) and ![](https://user-images.githubusercontent.com/30692745/29034385-c1c58e84-7bb5-11e7-97ad-396550382799.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
