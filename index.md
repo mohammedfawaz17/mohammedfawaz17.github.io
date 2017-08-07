@@ -17,8 +17,8 @@ Our instuctor gave an introduction about fab lab.
 ### DAY 2
 03/08/2017
  
- -We learned to create our own github page for documentation.
- -got an introduction about ultimaker 3D printer and the software (cura) used for designing. 
+ - We learned to create our own github page for documentation.
+ - got an introduction about ultimaker 3D printer and the software (cura) used for designing. 
 
  
  
