@@ -9,8 +9,20 @@ I am MOHAMMED FAWAZ doing btech in Applied electronics and instrumentation.
 
 
 ## FABLAB PROGRESS
-### Header 3
+### DAY 1
+02/08/2017
 
+Our instuctor gave an introduction about fab lab. 
+ 
+### DAY 2
+03/08/2017
+ 
+ -We learned to create our own github page for documentation.
+ -got an introduction about ultimaker 3D printer and the software (cura) used for designing. 
+
+ 
+ 
+ 
 - Bulleted
 - List
 
