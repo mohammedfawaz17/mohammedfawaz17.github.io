@@ -2,12 +2,8 @@
 
 I am MOHAMMED FAWAZ doing btech in Applied electronics and instrumentation.
 
-### MARKDOWN
+#### FABLAB TRAINING PROGRESS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
