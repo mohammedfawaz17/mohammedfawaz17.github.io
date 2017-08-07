@@ -19,7 +19,7 @@ I am MOHAMMED FAWAZ doing btech in Applied electronics and instrumentation.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://user-images.githubusercontent.com/30692745/29034385-c1c58e84-7bb5-11e7-97ad-396550382799.jpg](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
